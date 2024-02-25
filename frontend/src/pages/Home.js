@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import { useJobsContext } from '../hooks/useJobsContext';
+import './Home.css';
 
 // Components
 import JobForm from '../components/JobForm';
