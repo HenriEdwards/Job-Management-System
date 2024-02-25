@@ -1,0 +1,17 @@
+/* CSS for cellphones */
+@media (max-width: 767px) {
+  .home {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+  }
+}
+
+/* CSS for tablets */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .home {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+  }
+}
