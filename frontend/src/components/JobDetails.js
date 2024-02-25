@@ -150,6 +150,7 @@ const JobDetails = ({ job }) => {
           <form>
         <input
           id={`checkbox-${job._id}`}
+          className='jobdetails-checkbox'
           type="checkbox"
           onChange={handleBatch}
           checked={isChecked}
