@@ -6,7 +6,7 @@ This is a full-stack web application built for maintenance management. It allows
 NOTE: Due to the backend being hosted on Render Free Tier, the server takes 50 seconds start after initial load, thereafter requests should be almost instant. 
 
 So after clicking the link, please wait 50 seconds for backend to start.
-[Job Maintenance Program](https://65cdfdd57ae2de00a3a15298--fascinating-concha-b3f0a4.netlify.app)
+[Job Maintenance Program](https://fascinating-concha-b3f0a4.netlify.app)
 
 ## Features
 
