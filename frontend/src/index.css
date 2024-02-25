@@ -33,7 +33,6 @@ header a {
   margin: 0 auto;
 }
 
-
 /* home */
 .home {
   display: grid;
@@ -62,7 +61,6 @@ header a {
   margin-top: 0;
 }
 
-
 .job-details p {
   margin: 0;
   font-size: 0.9em;
@@ -77,6 +75,11 @@ header a {
   padding: 6px;
   border-radius: 50%;
   color: #333;
+}
+
+.jobdetails-checkbox{
+  padding: 0;
+  margin: 25px 0 5px 0;
 }
 
 /* new job form */
